@@ -1,21 +1,19 @@
 {
   "manifest_version": 2,
-  "name": "__MSG_addonName__",
-  "default_locale": "en_US",
-  "description": "__MSG_addonDescription__",
-  "author": "__MSG_addonAuthorsList__",
-  "version": "1.6",
-  "homepage_url": "http://github.com/wisniewskit/google-search-fixer",
+  "name": "Google Labs Fixer",
+  "description": "Override the user-agent string presented to Google Search pages to receive Google Labs",
+  "version": "1.0",
+  "homepage_url": "https://github.com/Mariobob/google-search-fixer",
   "applications": {
     "gecko": {
       "strict_min_version": "56.0"
     }
   },
   "icons": {
-    "16": "icons/google_fixed.svg",
-    "32": "icons/google_fixed.svg",
-    "48": "icons/google_fixed.svg",
-    "96": "icons/google_fixed.svg"
+    "16": "icons/flask.svg",
+    "32": "icons/flask.svg",
+    "48": "icons/flask.svg",
+    "96": "icons/flask.svg"
   },
   "permissions": [
     "webRequest",
