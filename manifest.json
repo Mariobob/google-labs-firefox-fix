@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Google Labs Fixer",
   "description": "Override the user-agent string presented to Google Search pages to receive Google Labs",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/Mariobob/google-search-fixer",
   "applications": {
     "gecko": {
