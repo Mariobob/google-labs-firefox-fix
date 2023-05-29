@@ -5,3 +5,5 @@ If this extension does not work for you remove the extension clearurl.
 All credit goes to the original author of the extension.
 
 Original code from https://github.com/wisniewskit/google-search-fixer
+
+https://addons.mozilla.org/en-US/firefox/addon/google-labs-fixer/
