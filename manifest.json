@@ -30,9 +30,9 @@
     "run_at": "document_start",
     "include_globs": [
       "*https://www.google.*",
-      "*https://maps.google.*",
+      "*https://labs.google.*",
       "*http://www.google.*",
-      "*http://maps.google.*"
+      "*http://labs.google.*"
     ],
     "matches": [
       "*://*.google.com/*",
